@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bolinibe.github.io/sitemap.html.gz
+Sitemap: https://bolinibe.github.io/app/sitemap.html.gz
+Sitemap: https://bolinibe.github.io/assets/sitemap.html.gz
+Sitemap: https://bolinibe.github.io/css/sitemap.html.gz
+Sitemap: https://bolinibe.github.io/includes/sitemap.html.gz
+Sitemap: https://bolinibe.github.io/item/sitemap.html.gz
+Sitemap: https://bolinibe.github.io/src/sitemap.html.gz
